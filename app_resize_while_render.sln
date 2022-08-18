@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_resize_while_render", "app_resize_while_render\app_resize_while_render.csproj", "{E775719A-5946-45F8-97C9-B8D890879026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E775719A-5946-45F8-97C9-B8D890879026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E775719A-5946-45F8-97C9-B8D890879026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E775719A-5946-45F8-97C9-B8D890879026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E775719A-5946-45F8-97C9-B8D890879026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9A4AEE-7218-4F1F-8F6D-280129BB713D}
+	EndGlobalSection
+EndGlobal
